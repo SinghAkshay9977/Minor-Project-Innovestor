@@ -1,2 +1,3 @@
 # Minor-Project-Innovestor
-this is my first repositary 
+this is my first reposit
+Author : Akshay singh
